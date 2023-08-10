@@ -1,24 +1,47 @@
 - class_name: 友情鏈接
   class_desc: 那些人，那些事
   link_list:
-    - name: Hexo
-      link: https://hexo.io/zh-tw/
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、簡單且強大的網誌框架
+    - name: Nameless
+      link: https://nameless.top/
+      avatar: https://nameless.top/wp-content/uploads/2022/02/QQ%E5%9B%BE%E7%89%8720220228174834-e1646041865155.jpg
+      descr: PWN佬
+    - name: pankas
+      link: https://pankas.top/
+      avatar: https://pankas.top/icon/logo.png
+      descr: Web佬     
 
 - class_name: 網站
   class_desc: 值得推薦的網站
   link_list:
-    - name: Youtube
-      link: https://www.youtube.com/
-      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
-      descr: 視頻網站
-    - name: Weibo
-      link: https://www.weibo.com/
-      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
-      descr: 中國最大社交分享平台
-    - name: Twitter
-      link: https://twitter.com/
-      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
-      descr: 社交分享平台
-
+    - name: 小林Coding
+      link: https://xiaolincoding.com/
+      avatar: https://xiaolincoding.com/logo.png
+      descr: 图解计算机
+    - name: 不良林
+      link: https://bulianglin.com/
+      avatar: https://bulianglin.com/#
+      descr: 有趣的计算机网络知识
+    - name: AI工具箱
+      link: https://ai-bot.cn/
+      avatar: https://ai-bot.cn/wp-content/uploads/2023/03/ai-bot-square-logo.png
+      descr: AI工具汇总
+    - name: v2rayse
+      link: https://v2rayse.com/
+      avatar: https://v2rayse.com/logo/default.png
+      descr: 梯子节点工具
+    - name: 爱玩实验室
+      link: https://iwanlab.com/
+      avatar: https://iwanlab.com/wp-content/uploads/2023/07/guguge.jpg
+      descr: 折腾一些好玩的
+    - name: Lion导航
+      link: https://dh.kejilion.pro/
+      avatar: https://dh.kejilion.pro/wp-content/uploads/2023/07/logo@2x.png
+      descr: 云服务导航
+    - name: KuangStudy
+      link: https://www.kuangstudy.com/
+      avatar: https://www.kuangstudy.com/assert/images/indexlogo.png
+      descr: 狂神说
+    - name: CS自学指南
+      link: https://csdiy.wiki/
+      avatar: https://csdiy.wiki/images/title.png
+      descr: CS自学指南

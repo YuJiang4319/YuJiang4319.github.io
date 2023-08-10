@@ -32,6 +32,10 @@ code_word_wrap: false
 #   icon: link || the description || color
 social:
   fab fa-github: https://github.com/YuJiang4319 || Github || '#24292e'
+  fab fa-telegram: https://t.me/miryang4319 || 电报 || '#279fdb'
+  fab fa-bilibili: https://space.bilibili.com/346306073 || B站 || '#009fd6'
+  fab fa-youtube: https://www.youtube.com/channel/UCwGwgTFgCd5TSXYAwFNQiEw || 油管 || '#ff0000'
+  fab fa-square-x-twitter: https://twitter.com/YangMir5 || 推特 || '#0b1016'
   fas fa-envelope: mailto:miryang4319@gmail.com || Email || '#4a7dbe'
 
 # Image (圖片設置)
@@ -232,10 +236,10 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/YuJiang4319
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: Hi,Friend！
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -277,7 +281,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date: 10/08/2023 
+  publish_date: 2023/8/10 00:00:00
 
 # Aside widget - Newest Comments
 newest_comments:

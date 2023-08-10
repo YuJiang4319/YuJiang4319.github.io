@@ -5,7 +5,7 @@ tags:
   - Trojan
 categories:	
   - Network
-keywords: "Trojan协议详解及搭建"
+description: Trojan协议详解及搭建
 ---
 
 # Trojan协议
@@ -46,7 +46,7 @@ keywords: "Trojan协议详解及搭建"
 ### Trojan节点搭建（Ubuntu 22.04）：
 
 **trojan-go：https://github.com/p4gefau1t/trojan-go**
-**trojan-go官方文档：[https://p4gefau1t.github.io/trojan-go/](https://bulianglin.com/g/aHR0cHM6Ly9wNGdlZmF1MXQuZ2l0aHViLmlvL3Ryb2phbi1nby8)**
+**trojan-go官方文档：https://p4gefau1t.github.io/trojan-go/**
 
 ##### 1.下载对应版本项目压缩包，上传到/root/trojan目录下解压
 
