@@ -103,6 +103,6 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/YuJiang4319/YuJiang4319.github.io
+  repo: git@github.com:YuJiang4319/YuJiang4319.github.io.git
   branch: main
 
