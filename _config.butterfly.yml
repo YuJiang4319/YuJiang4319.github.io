@@ -768,6 +768,8 @@ subtitle:
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
     - 吾心所向，素履以往
+    - I'll try anything once.
+    - Take the world as it is.
 
 # Loading Animation (加載動畫)
 preloader:
