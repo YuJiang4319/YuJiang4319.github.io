@@ -1,4 +1,4 @@
-- class_name: 友情鏈接
+- class_name: 友情链接
   class_desc: 那些人，那些事
   link_list:
     - name: Nameless
@@ -10,16 +10,20 @@
       avatar: https://pankas.top/icon/logo.png
       descr: Web佬     
 
-- class_name: 網站
-  class_desc: 值得推薦的網站
+- class_name: 网站
+  class_desc: 值得推荐的网站
   link_list:
+    - name: ChatGPT
+      link: https://gpt.diamondheart.top/
+      avatar: https://gpt.diamondheart.top/favicon.ico
+      descr: 自建GPT，密码你猜
     - name: 小林Coding
       link: https://xiaolincoding.com/
       avatar: https://xiaolincoding.com/logo.png
       descr: 图解计算机
     - name: 不良林
       link: https://bulianglin.com/
-      avatar: https://bulianglin.com/#
+      avatar: https://bulianglin.com/head.png
       descr: 有趣的计算机网络知识
     - name: AI工具箱
       link: https://ai-bot.cn/
@@ -35,7 +39,7 @@
       descr: 折腾一些好玩的
     - name: Lion导航
       link: https://dh.kejilion.pro/
-      avatar: https://dh.kejilion.pro/wp-content/uploads/2023/07/logo@2x.png
+      avatar: https://dh.kejilion.pro/wp-content/uploads/2022/07/kejilion.jpg
       descr: 云服务导航
     - name: KuangStudy
       link: https://www.kuangstudy.com/
