@@ -70,25 +70,25 @@ description: iKuai使用docker安装qBittorrent
 
 ![image-20230929172058155](https://cdn.jsdelivr.net/gh/YuJiang4319/images/ikuai/image-20230929172058155.png)
 
-> 首先勾选 `使用路由器的upnp功能`，然后修改上方端口号，这里就修改为33192，听说很多pt站会屏蔽默认6881端口，导致下载没速度
+> 首先勾选 `使用路由器的upnp功能`，然后修改下方端口号，这里就修改为49203，听说很多pt站会屏蔽默认6881端口，导致下载没速度
 
-![img](https://cdn.jsdelivr.net/gh/YuJiang4319/images/ikuai/0ff1eb37d63f94132e22325fac1f4358.png)
+![image-20231007010111139](https://cdn.jsdelivr.net/gh/YuJiang4319/images/ikuai/image-20231007010111139.png)
+
+> 然后进入 `WEB UI` 选项栏，同样勾选开启 `upnp`
+
+![image-20231007002639052](https://cdn.jsdelivr.net/gh/YuJiang4319/images/ikuai/image-20231007002639052.png)
 
 > 然后回到爱快的 `网络设置` - `端口映射` 下，添加以下映射规则
 
 - 内网地址填qbittorrent容器地址
 - 内网端口填刚刚修改的端口号
-- 协议分别选 `TCP` 和 `UDP` ，只创建一个映射选 `TCP+UDP` 应该也是可以的，没测试
+- 协议选 `TCP+UDP` 
 - 类型选择外网接口
 - 外网地址就选 `WAN`口
 - 外网端口可以不与内网端口相同，但最好选择1024以后的端口，防止冲突，这里就简单设置跟内网端口一致
-- 允许访问IP：设置哪些IP可以去访问映射规则，不填写代表内网所有IP可以访问。
+- 允许访问IP：设置哪些IP可以去访问映射规则，不填写代表内网所有IP可以访问
 
-![image-20230930113031094](https://cdn.jsdelivr.net/gh/YuJiang4319/images/ikuai/image-20230930113031094.png)
-
-![image-20230930113100392](https://cdn.jsdelivr.net/gh/YuJiang4319/images/ikuai/image-20230930113100392.png)
-
-![image-20230930113017787](https://cdn.jsdelivr.net/gh/YuJiang4319/images/ikuai/image-20230930113017787.png)
+![image-20231007011451663](https://cdn.jsdelivr.net/gh/YuJiang4319/images/ikuai/image-20231007011451663.png)
 
 映射规则可能会延迟生效，一段时间后仍未生效可以尝试重启容器或者爱快
 
@@ -100,7 +100,7 @@ description: iKuai使用docker安装qBittorrent
 
 ![img](https://cdn.jsdelivr.net/gh/YuJiang4319/images/ikuai/087a671cda202a02d9067f72746102e9.png)
 
-​	还有一些优化条目可以设置下，打开设置，切换到“web ui”选项卡，如图示找到“启用Host header属性验证”选项卡，取消勾选，防止通过公网无法访问管理页面
+​	还有一些优化条目可以设置下，打开设置，切换到 `web ui` 选项卡，如图示找到“启用Host header属性验证”选项卡，取消勾选，防止通过公网无法访问管理页面
 
 ![img](https://cdn.jsdelivr.net/gh/YuJiang4319/images/ikuai/cd02db0b537c395d2ad28382fb150ac8.png)
 
