@@ -82,7 +82,7 @@ description: iKuai使用docker安装qBittorrent
 - 类型选择外网接口
 - 外网地址就选 `WAN`口
 - 外网端口可以不与内网端口相同，但最好选择1024以后的端口，防止冲突，这里就简单设置跟内网端口一致
-- 允许访问IP就添加qbittorrent容器的IP，不知道这一项具体有无影响
+- 允许访问IP：设置哪些IP可以去访问映射规则，不填写代表内网所有IP可以访问。
 
 ![image-20230930113031094](https://cdn.jsdelivr.net/gh/YuJiang4319/images/ikuai/image-20230930113031094.png)
 
