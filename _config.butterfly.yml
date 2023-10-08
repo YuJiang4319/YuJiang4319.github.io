@@ -90,10 +90,63 @@ cover:
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
     - https://cdn.jsdelivr.net/gh/YuJiang4319/images/guidao/piano_8k.jpg
+    - https://cdn.jsdelivr.net/gh/YuJiang4319/images/guidao/piano2_8k.jpg
+    - https://cdn.jsdelivr.net/gh/YuJiang4319/images/guidao/piano3_8k.jpg
     - https://cdn.jsdelivr.net/gh/YuJiang4319/images/guidao/wind1.jpg
     - https://cdn.jsdelivr.net/gh/YuJiang4319/images/guidao/wind2.jpg
     - https://cdn.jsdelivr.net/gh/YuJiang4319/images/guidao/wind3.jpg
     - https://cdn.jsdelivr.net/gh/YuJiang4319/images/guidao/wind4.jpg
+    - https://cdn.jsdelivr.net/gh/YuJiang4319/images/guidao/wind5.jpg
+    - https://cdn.jsdelivr.net/gh/YuJiang4319/images/guidao/wind6.jpg
+    - https://cdn.jsdelivr.net/gh/YuJiang4319/images/guidao/wind7.jpg
+    - https://cdn.jsdelivr.net/gh/YuJiang4319/images/guidao/wind8.jpg
+    - https://cdn.jsdelivr.net/gh/YuJiang4319/images/guidao/wind9.jpg
+    - https://cdn.jsdelivr.net/gh/YuJiang4319/images/guidao/wind10.jpg
+    - https://cdn.jsdelivr.net/gh/YuJiang4319/images/guidao/wind11.jpg
+    - https://cdn.jsdelivr.net/gh/YuJiang4319/images/guidao/wind12.jpg
+    - https://cdn.jsdelivr.net/gh/YuJiang4319/images/guidao/wind13.jpg
+    - https://cdn.jsdelivr.net/gh/YuJiang4319/images/guidao/wind14.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice1.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice2.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice3.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice4.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice5.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice6.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice7.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice8.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice9.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice10.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice11.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice12.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice13.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice14.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice15.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice16.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice17.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice18.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice19.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice20.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice21.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice22.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/ice23.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/other1.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/other2.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/other3.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/other4.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/other5.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/other6.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/other7.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/other8.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/other9.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/other10.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/other11.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/other12.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/other13.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/other14.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/other15.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/other16.jpg
+    - https://raw.githubusercontent.com/YuJiang4319/images/main/guidao/other17.jpg
+
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
   flink: /img/friend_404.gif

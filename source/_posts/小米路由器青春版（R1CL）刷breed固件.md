@@ -180,6 +180,8 @@ mtd -r write /tmp/breed.bin Bootloader
 
 ​		！！！注意一定要先按住reset键再上电，不能先上电再按reset！！！
 
+​		【之后想再次进入breed管理页同样重复此操作】
+
 ​		然后用一条网线把电脑和路由器的 `WAN` 口相连，注意是 ` WAN` 口，打开浏览器访问`192.168.1.1`，即可进入`breed`控制台，进入后即可开始对路由器进行刷机
 
 ![image-20231006204805583](https://cdn.jsdelivr.net/gh/YuJiang4319/images/ikuai/image-20231006204805583.png)
