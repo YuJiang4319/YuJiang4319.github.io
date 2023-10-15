@@ -33,11 +33,11 @@ description: wireshark抓包分析dns、http协议
 
 > HTTP数据包格式：
 
-![图片1](./pics/图片1-1697347977956-5.png)
+![图片1](https://cdn.jsdelivr.net/gh/YuJiang4319/images/ikuai/%E5%9B%BE%E7%89%871-1697347977956-5.png)
 
 > DNS数据包格式：
 
-![img](./pics/wps2.png)
+![img](https://cdn.jsdelivr.net/gh/YuJiang4319/images/ikuai/wps2.png)
 
 ## **五、** 实验步骤
 
@@ -49,7 +49,7 @@ description: wireshark抓包分析dns、http协议
 
 > http请求包
 
-![img](./pics/wps3.jpg)
+![img](https://cdn.jsdelivr.net/gh/YuJiang4319/images/ikuai/wps3.jpg)
 
 - 源：192.168.87.139：4210  目的：39.156.165.107：80
 
@@ -69,7 +69,7 @@ description: wireshark抓包分析dns、http协议
 
 > http响应包
 
-![img](./pics/wps4.jpg) 
+![img](https://cdn.jsdelivr.net/gh/YuJiang4319/images/ikuai/wps4.jpg) 
 
 - 源：39.156.165.107：80  目的：192.168.87.139：4210
 
@@ -99,7 +99,7 @@ description: wireshark抓包分析dns、http协议
 
 > dns请求
 
-![img](./pics/wps5.jpg) 
+![img](https://cdn.jsdelivr.net/gh/YuJiang4319/images/ikuai/wps5.jpg) 
 
 - 源：192.168.87.139：51489    目的：192.168.87.49:53
 
@@ -133,7 +133,7 @@ description: wireshark抓包分析dns、http协议
 
 > dns响应
 
-![img](./pics/wps6.jpg) 
+![img](https://cdn.jsdelivr.net/gh/YuJiang4319/images/ikuai/wps6.jpg) 
 
 - 源：192.168.87.49:53    目的：192.168.87.139:51489
 
