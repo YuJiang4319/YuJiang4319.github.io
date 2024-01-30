@@ -1,11 +1,11 @@
 ---
-title: GitHub连接错误
+title: GitHub SSH连接错误
 date: 2023-09-11 13:51:38
 tags:
   - GitHub
 categories:	
   - GitHub
-description: GitHub连接错误 kex_exchange_identification,Connection closed by remote host
+description: GitHub SSH连接错误 kex_exchange_identification,Connection closed by remote host
 ---
 
 ## GitHub连接错误：kex_exchange_identification:Connection closed by remote host
